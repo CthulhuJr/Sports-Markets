@@ -1,156 +1,156 @@
-﻿team_name,league,conference,division,city,state,venue,founded
-"Arizona Cardinals",NFL,NFC,West,Phoenix,Arizona,"State Farm Stadium",1898
-"Atlanta Falcons",NFL,NFC,South,Atlanta,Georgia,"Mercedes-Benz Stadium",1965
-"Baltimore Ravens",NFL,AFC,North,Baltimore,Maryland,"M&T Bank Stadium",1996
-"Buffalo Bills",NFL,AFC,East,Buffalo,"New York","Highmark Stadium",1959
-"Carolina Panthers",NFL,NFC,South,Charlotte,"North Carolina","Bank of America Stadium",1993
-"Chicago Bears",NFL,NFC,North,Chicago,Illinois,"Soldier Field",1919
-"Cincinnati Bengals",NFL,AFC,North,Cincinnati,Ohio,"Paycor Stadium",1968
-"Cleveland Browns",NFL,AFC,North,Cleveland,Ohio,"Huntington Bank Field",1944
-"Dallas Cowboys",NFL,NFC,East,Arlington,Texas,"AT&T Stadium",1960
-"Denver Broncos",NFL,AFC,West,Denver,Colorado,"Empower Field at Mile High",1959
-"Detroit Lions",NFL,NFC,North,Detroit,Michigan,"Ford Field",1929
-"Green Bay Packers",NFL,NFC,North,"Green Bay",Wisconsin,"Lambeau Field",1919
-"Houston Texans",NFL,AFC,South,Houston,Texas,"NRG Stadium",1999
-"Indianapolis Colts",NFL,AFC,South,Indianapolis,Indiana,"Lucas Oil Stadium",1953
-"Jacksonville Jaguars",NFL,AFC,South,Jacksonville,Florida,"EverBank Stadium",1993
-"Kansas City Chiefs",NFL,AFC,West,"Kansas City",Missouri,"GEHA Field at Arrowhead",1959
-"Las Vegas Raiders",NFL,AFC,West,"Las Vegas",Nevada,"Allegiant Stadium",1959
-"Los Angeles Chargers",NFL,AFC,West,Inglewood,California,"SoFi Stadium",1959
-"Los Angeles Rams",NFL,NFC,West,Inglewood,California,"SoFi Stadium",1936
-"Miami Dolphins",NFL,AFC,East,"Miami Gardens",Florida,"Hard Rock Stadium",1965
-"Minnesota Vikings",NFL,NFC,North,Minneapolis,Minnesota,"U.S. Bank Stadium",1960
-"New England Patriots",NFL,AFC,East,Foxborough,Massachusetts,"Gillette Stadium",1959
-"New Orleans Saints",NFL,NFC,South,"New Orleans",Louisiana,"Caesars Superdome",1966
-"New York Giants",NFL,NFC,East,"East Rutherford","New Jersey","MetLife Stadium",1925
-"New York Jets",NFL,AFC,East,"East Rutherford","New Jersey","MetLife Stadium",1959
-"Philadelphia Eagles",NFL,NFC,East,Philadelphia,Pennsylvania,"Lincoln Financial Field",1933
-"Pittsburgh Steelers",NFL,AFC,North,Pittsburgh,Pennsylvania,"Acrisure Stadium",1933
-"San Francisco 49ers",NFL,NFC,West,"Santa Clara",California,"Levi's Stadium",1946
-"Seattle Seahawks",NFL,NFC,West,Seattle,Washington,"Lumen Field",1976
-"Tampa Bay Buccaneers",NFL,NFC,South,Tampa,Florida,"Raymond James Stadium",1976
-"Tennessee Titans",NFL,AFC,South,Nashville,Tennessee,"Nissan Stadium",1960
-"Washington Commanders",NFL,NFC,East,Landover,Maryland,"Northwest Stadium",1932
-"Arizona Diamondbacks",MLB,National,West,Phoenix,Arizona,"Chase Field",1998
-"Atlanta Braves",MLB,National,East,Atlanta,Georgia,"Truist Park",1871
-"Baltimore Orioles",MLB,American,East,Baltimore,Maryland,"Oriole Park at Camden Yards",1901
-"Boston Red Sox",MLB,American,East,Boston,Massachusetts,"Fenway Park",1901
-"Chicago Cubs",MLB,National,Central,Chicago,Illinois,"Wrigley Field",1876
-"Chicago White Sox",MLB,American,Central,Chicago,Illinois,"Guaranteed Rate Field",1901
-"Cincinnati Reds",MLB,National,Central,Cincinnati,Ohio,"Great American Ball Park",1882
-"Cleveland Guardians",MLB,American,Central,Cleveland,Ohio,"Progressive Field",1894
-"Colorado Rockies",MLB,National,West,Denver,Colorado,"Coors Field",1993
-"Detroit Tigers",MLB,American,Central,Detroit,Michigan,"Comerica Park",1894
-"Houston Astros",MLB,American,West,Houston,Texas,"Minute Maid Park",1962
-"Kansas City Royals",MLB,American,Central,"Kansas City",Missouri,"Kauffman Stadium",1969
-"Los Angeles Angels",MLB,American,West,Anaheim,California,"Angel Stadium",1961
-"Los Angeles Dodgers",MLB,National,West,"Los Angeles",California,"Dodger Stadium",1883
-"Miami Marlins",MLB,National,East,Miami,Florida,"loanDepot park",1993
-"Milwaukee Brewers",MLB,National,Central,Milwaukee,Wisconsin,"American Family Field",1969
-"Minnesota Twins",MLB,American,Central,Minneapolis,Minnesota,"Target Field",1901
-"New York Mets",MLB,National,East,Queens,"New York","Citi Field",1962
-"New York Yankees",MLB,American,East,Bronx,"New York","Yankee Stadium",1901
-"Oakland Athletics",MLB,American,West,Oakland,California,"Oakland Coliseum",1901
-"Philadelphia Phillies",MLB,National,East,Philadelphia,Pennsylvania,"Citizens Bank Park",1883
-"Pittsburgh Pirates",MLB,National,Central,Pittsburgh,Pennsylvania,"PNC Park",1882
-"San Diego Padres",MLB,National,West,"San Diego",California,"Petco Park",1969
-"San Francisco Giants",MLB,National,West,"San Francisco",California,"Oracle Park",1883
-"Seattle Mariners",MLB,American,West,Seattle,Washington,"T-Mobile Park",1977
-"St. Louis Cardinals",MLB,National,Central,"St. Louis",Missouri,"Busch Stadium",1882
-"Tampa Bay Rays",MLB,American,East,"St. Petersburg",Florida,"Tropicana Field",1998
-"Texas Rangers",MLB,American,West,Arlington,Texas,"Globe Life Field",1961
-"Toronto Blue Jays",MLB,American,East,Toronto,Ontario,"Rogers Centre",1977
-"Washington Nationals",MLB,National,East,Washington,D.C.,"Nationals Park",1969
-"Atlanta Hawks",NBA,Eastern,Southeast,Atlanta,Georgia,"State Farm Arena",1946
-"Boston Celtics",NBA,Eastern,Atlantic,Boston,Massachusetts,"TD Garden",1946
-"Brooklyn Nets",NBA,Eastern,Atlantic,Brooklyn,"New York","Barclays Center",1967
-"Charlotte Hornets",NBA,Eastern,Southeast,Charlotte,"North Carolina","Spectrum Center",1988
-"Chicago Bulls",NBA,Eastern,Central,Chicago,Illinois,"United Center",1966
-"Cleveland Cavaliers",NBA,Eastern,Central,Cleveland,Ohio,"Rocket Mortgage FieldHouse",1970
-"Dallas Mavericks",NBA,Western,Southwest,Dallas,Texas,"American Airlines Center",1980
-"Denver Nuggets",NBA,Western,Northwest,Denver,Colorado,"Ball Arena",1967
-"Detroit Pistons",NBA,Eastern,Central,Detroit,Michigan,"Little Caesars Arena",1941
-"Golden State Warriors",NBA,Western,Pacific,"San Francisco",California,"Chase Center",1946
-"Houston Rockets",NBA,Western,Southwest,Houston,Texas,"Toyota Center",1967
-"Indiana Pacers",NBA,Eastern,Central,Indianapolis,Indiana,"Gainbridge Fieldhouse",1967
-"LA Clippers",NBA,Western,Pacific,"Los Angeles",California,"Intuit Dome",1970
-"Los Angeles Lakers",NBA,Western,Pacific,"Los Angeles",California,"Crypto.com Arena",1947
-"Memphis Grizzlies",NBA,Western,Southwest,Memphis,Tennessee,FedExForum,1995
-"Miami Heat",NBA,Eastern,Southeast,Miami,Florida,"Kaseya Center",1988
-"Milwaukee Bucks",NBA,Eastern,Central,Milwaukee,Wisconsin,"Fiserv Forum",1968
-"Minnesota Timberwolves",NBA,Western,Northwest,Minneapolis,Minnesota,"Target Center",1989
-"New Orleans Pelicans",NBA,Western,Southwest,"New Orleans",Louisiana,"Smoothie King Center",1988
-"New York Knicks",NBA,Eastern,Atlantic,"New York","New York","Madison Square Garden",1946
-"Oklahoma City Thunder",NBA,Western,Northwest,"Oklahoma City",Oklahoma,"Paycom Center",1967
-"Orlando Magic",NBA,Eastern,Southeast,Orlando,Florida,"Kia Center",1989
-"Philadelphia 76ers",NBA,Eastern,Atlantic,Philadelphia,Pennsylvania,"Wells Fargo Center",1946
-"Phoenix Suns",NBA,Western,Pacific,Phoenix,Arizona,"Footprint Center",1968
-"Portland Trail Blazers",NBA,Western,Northwest,Portland,Oregon,"Moda Center",1970
-"Sacramento Kings",NBA,Western,Pacific,Sacramento,California,"Golden 1 Center",1923
-"San Antonio Spurs",NBA,Western,Southwest,"San Antonio",Texas,"Frost Bank Center",1967
-"Toronto Raptors",NBA,Eastern,Atlantic,Toronto,Ontario,"Scotiabank Arena",1995
-"Utah Jazz",NBA,Western,Northwest,"Salt Lake City",Utah,"Delta Center",1974
-"Washington Wizards",NBA,Eastern,Southeast,Washington,D.C.,"Capital One Arena",1961
-"Anaheim Ducks",NHL,Western,Pacific,Anaheim,California,"Honda Center",1993
-"Arizona Coyotes",NHL,Western,Central,Tempe,Arizona,"Mullett Arena",1972
-"Boston Bruins",NHL,Eastern,Atlantic,Boston,Massachusetts,"TD Garden",1924
-"Buffalo Sabres",NHL,Eastern,Atlantic,Buffalo,"New York","KeyBank Center",1970
-"Calgary Flames",NHL,Western,Pacific,Calgary,Alberta,"Scotiabank Saddledome",1972
-"Carolina Hurricanes",NHL,Eastern,Metropolitan,Raleigh,"North Carolina","Lenovo Center",1972
-"Chicago Blackhawks",NHL,Western,Central,Chicago,Illinois,"United Center",1926
-"Colorado Avalanche",NHL,Western,Central,Denver,Colorado,"Ball Arena",1972
-"Columbus Blue Jackets",NHL,Eastern,Metropolitan,Columbus,Ohio,"Nationwide Arena",2000
-"Dallas Stars",NHL,Western,Central,Dallas,Texas,"American Airlines Center",1967
-"Detroit Red Wings",NHL,Eastern,Atlantic,Detroit,Michigan,"Little Caesars Arena",1926
-"Edmonton Oilers",NHL,Western,Pacific,Edmonton,Alberta,"Rogers Place",1972
-"Florida Panthers",NHL,Eastern,Atlantic,Sunrise,Florida,"Amerant Bank Arena",1993
-"Los Angeles Kings",NHL,Western,Pacific,"Los Angeles",California,"Crypto.com Arena",1967
-"Minnesota Wild",NHL,Western,Central,"St. Paul",Minnesota,"Xcel Energy Center",2000
-"Montreal Canadiens",NHL,Eastern,Atlantic,Montreal,Quebec,"Bell Centre",1909
-"Nashville Predators",NHL,Western,Central,Nashville,Tennessee,"Bridgestone Arena",1998
-"New Jersey Devils",NHL,Eastern,Metropolitan,Newark,"New Jersey","Prudential Center",1974
-"New York Islanders",NHL,Eastern,Metropolitan,Elmont,"New York","UBS Arena",1972
-"New York Rangers",NHL,Eastern,Metropolitan,"New York","New York","Madison Square Garden",1926
-"Ottawa Senators",NHL,Eastern,Atlantic,Ottawa,Ontario,"Canadian Tire Centre",1992
-"Philadelphia Flyers",NHL,Eastern,Metropolitan,Philadelphia,Pennsylvania,"Wells Fargo Center",1967
-"Pittsburgh Penguins",NHL,Eastern,Metropolitan,Pittsburgh,Pennsylvania,"PPG Paints Arena",1967
-"San Jose Sharks",NHL,Western,Pacific,"San Jose",California,"SAP Center",1991
-"Seattle Kraken",NHL,Western,Pacific,Seattle,Washington,"Climate Pledge Arena",2021
-"St. Louis Blues",NHL,Western,Central,"St. Louis",Missouri,"Enterprise Center",1967
-"Tampa Bay Lightning",NHL,Eastern,Atlantic,Tampa,Florida,"Amalie Arena",1992
-"Toronto Maple Leafs",NHL,Eastern,Atlantic,Toronto,Ontario,"Scotiabank Arena",1917
-"Utah Hockey Club",NHL,Western,Central,"Salt Lake City",Utah,"Delta Center",2024
-"Vancouver Canucks",NHL,Western,Pacific,Vancouver,"British Columbia","Rogers Arena",1970
-"Vegas Golden Knights",NHL,Western,Pacific,"Las Vegas",Nevada,"T-Mobile Arena",2017
-"Washington Capitals",NHL,Eastern,Metropolitan,Washington,D.C.,"Capital One Arena",1974
-"Winnipeg Jets",NHL,Western,Central,Winnipeg,Manitoba,"Canada Life Centre",2011
-"Atlanta United FC",MLS,Eastern,East,Atlanta,Georgia,"Mercedes-Benz Stadium",2014
-"Austin FC",MLS,Western,West,Austin,Texas,"Q2 Stadium",2018
-"CF Montreal",MLS,Eastern,East,Montreal,Quebec,"Saputo Stadium",1992
-"Charlotte FC",MLS,Eastern,East,Charlotte,"North Carolina","Bank of America Stadium",2019
-"Chicago Fire FC",MLS,Eastern,East,Chicago,Illinois,"Soldier Field",1997
-"Colorado Rapids",MLS,Western,West,"Commerce City",Colorado,"Dick's Sporting Goods Park",1995
-"Columbus Crew",MLS,Eastern,East,Columbus,Ohio,"Lower.com Field",1994
-"D.C. United",MLS,Eastern,East,Washington,D.C.,"Audi Field",1995
-"FC Cincinnati",MLS,Eastern,East,Cincinnati,Ohio,"TQL Stadium",2015
-"FC Dallas",MLS,Western,West,Frisco,Texas,"Toyota Stadium",1995
-"Houston Dynamo FC",MLS,Western,West,Houston,Texas,"Shell Energy Stadium",2005
-"Inter Miami CF",MLS,Eastern,East,"Fort Lauderdale",Florida,"Chase Stadium",2018
-"LA Galaxy",MLS,Western,West,Carson,California,"Dignity Health Sports Park",1994
-"Los Angeles FC",MLS,Western,West,"Los Angeles",California,"BMO Stadium",2014
-"Minnesota United FC",MLS,Western,West,"St. Paul",Minnesota,"Allianz Field",2010
-"Nashville SC",MLS,Eastern,East,Nashville,Tennessee,"GEODIS Park",2017
-"New England Revolution",MLS,Eastern,East,Foxborough,Massachusetts,"Gillette Stadium",1995
-"New York City FC",MLS,Eastern,East,"New York","New York","Yankee Stadium",2013
-"New York Red Bulls",MLS,Eastern,East,Harrison,"New Jersey","Red Bull Arena",1994
-"Orlando City SC",MLS,Eastern,East,Orlando,Florida,"Inter&Co Stadium",2013
-"Philadelphia Union",MLS,Eastern,East,Chester,Pennsylvania,"Subaru Park",2008
-"Portland Timbers",MLS,Western,West,Portland,Oregon,"Providence Park",2009
-"Real Salt Lake",MLS,Western,West,Sandy,Utah,"America First Field",2004
-"San Diego FC",MLS,Western,West,"San Diego",California,"Snapdragon Stadium",2023
-"San Jose Earthquakes",MLS,Western,West,"San Jose",California,"PayPal Park",1994
-"Seattle Sounders FC",MLS,Western,West,Seattle,Washington,"Lumen Field",2007
-"Sporting Kansas City",MLS,Western,West,"Kansas City",Kansas,"Children's Mercy Park",1995
-"St. Louis City SC",MLS,Western,West,"St. Louis",Missouri,"Energizer Park",2019
-"Toronto FC",MLS,Eastern,East,Toronto,Ontario,"BMO Field",2005
-"Vancouver Whitecaps FC",MLS,Western,West,Vancouver,"British Columbia","BC Place",2009
+﻿"team_name","league","conference","division","city","state","venue","founded","latitude","longitude"
+"Arizona Cardinals","NFL","NFC","West","Phoenix","Arizona","State Farm Stadium","1898","33.4484367","-112.0741410"
+"Atlanta Falcons","NFL","NFC","South","Atlanta","Georgia","Mercedes-Benz Stadium","1965","33.7544657","-84.3898151"
+"Baltimore Ravens","NFL","AFC","North","Baltimore","Maryland","M&T Bank Stadium","1996","39.2908816","-76.6107590"
+"Buffalo Bills","NFL","AFC","East","Buffalo","New York","Highmark Stadium","1959","42.8864163","-78.8781493"
+"Carolina Panthers","NFL","NFC","South","Charlotte","North Carolina","Bank of America Stadium","1993","35.2272086","-80.8430827"
+"Chicago Bears","NFL","NFC","North","Chicago","Illinois","Soldier Field","1919","41.8755616","-87.6244212"
+"Cincinnati Bengals","NFL","AFC","North","Cincinnati","Ohio","Paycor Stadium","1968","39.1012809","-84.5127405"
+"Cleveland Browns","NFL","AFC","North","Cleveland","Ohio","Huntington Bank Field","1944","41.4996574","-81.6936772"
+"Dallas Cowboys","NFL","NFC","East","Arlington","Texas","AT&T Stadium","1960","32.7355816","-97.1071186"
+"Denver Broncos","NFL","AFC","West","Denver","Colorado","Empower Field at Mile High","1959","39.7392364","-104.9848620"
+"Detroit Lions","NFL","NFC","North","Detroit","Michigan","Ford Field","1929","42.3315509","-83.0466403"
+"Green Bay Packers","NFL","NFC","North","Green Bay","Wisconsin","Lambeau Field","1919","44.5126379","-88.0125794"
+"Houston Texans","NFL","AFC","South","Houston","Texas","NRG Stadium","1999","29.7589382","-95.3676974"
+"Indianapolis Colts","NFL","AFC","South","Indianapolis","Indiana","Lucas Oil Stadium","1953","39.7683331","-86.1583502"
+"Jacksonville Jaguars","NFL","AFC","South","Jacksonville","Florida","EverBank Stadium","1993","30.3262247","-81.6579179"
+"Kansas City Chiefs","NFL","AFC","West","Kansas City","Missouri","GEHA Field at Arrowhead","1959","39.1001050","-94.5781416"
+"Las Vegas Raiders","NFL","AFC","West","Las Vegas","Nevada","Allegiant Stadium","1959","36.1674263","-115.1484131"
+"Los Angeles Chargers","NFL","AFC","West","Inglewood","California","SoFi Stadium","1959","33.9562003","-118.3531320"
+"Los Angeles Rams","NFL","NFC","West","Inglewood","California","SoFi Stadium","1936","33.9562003","-118.3531320"
+"Miami Dolphins","NFL","AFC","East","Miami Gardens","Florida","Hard Rock Stadium","1965","25.9420377","-80.2456045"
+"Minnesota Vikings","NFL","NFC","North","Minneapolis","Minnesota","U.S. Bank Stadium","1960","44.9772995","-93.2654692"
+"New England Patriots","NFL","AFC","East","Foxborough","Massachusetts","Gillette Stadium","1959","42.0653768","-71.2478308"
+"New Orleans Saints","NFL","NFC","South","New Orleans","Louisiana","Caesars Superdome","1966","29.9574657","-90.0629493"
+"New York Giants","NFL","NFC","East","East Rutherford","New Jersey","MetLife Stadium","1925","40.8339890","-74.0970865"
+"New York Jets","NFL","AFC","East","East Rutherford","New Jersey","MetLife Stadium","1959","40.8339890","-74.0970865"
+"Philadelphia Eagles","NFL","NFC","East","Philadelphia","Pennsylvania","Lincoln Financial Field","1933","39.9527237","-75.1635262"
+"Pittsburgh Steelers","NFL","AFC","North","Pittsburgh","Pennsylvania","Acrisure Stadium","1933","40.4406968","-80.0025666"
+"San Francisco 49ers","NFL","NFC","West","Santa Clara","California","Levi's Stadium","1946","37.3541132","-121.9551740"
+"Seattle Seahawks","NFL","NFC","West","Seattle","Washington","Lumen Field","1976","47.6038321","-122.3300620"
+"Tampa Bay Buccaneers","NFL","NFC","South","Tampa","Florida","Raymond James Stadium","1976","27.9449854","-82.4583107"
+"Tennessee Titans","NFL","AFC","South","Nashville","Tennessee","Nissan Stadium","1960","36.1622767","-86.7742984"
+"Washington Commanders","NFL","NFC","East","Landover","Maryland","Northwest Stadium","1932","38.9253130","-76.8815433"
+"Arizona Diamondbacks","MLB","National","West","Phoenix","Arizona","Chase Field","1998","33.4484367","-112.0741410"
+"Atlanta Braves","MLB","National","East","Atlanta","Georgia","Truist Park","1871","33.7544657","-84.3898151"
+"Baltimore Orioles","MLB","American","East","Baltimore","Maryland","Oriole Park at Camden Yards","1901","39.2908816","-76.6107590"
+"Boston Red Sox","MLB","American","East","Boston","Massachusetts","Fenway Park","1901","42.3588336","-71.0578303"
+"Chicago Cubs","MLB","National","Central","Chicago","Illinois","Wrigley Field","1876","41.8755616","-87.6244212"
+"Chicago White Sox","MLB","American","Central","Chicago","Illinois","Guaranteed Rate Field","1901","41.8755616","-87.6244212"
+"Cincinnati Reds","MLB","National","Central","Cincinnati","Ohio","Great American Ball Park","1882","39.1012809","-84.5127405"
+"Cleveland Guardians","MLB","American","Central","Cleveland","Ohio","Progressive Field","1894","41.4996574","-81.6936772"
+"Colorado Rockies","MLB","National","West","Denver","Colorado","Coors Field","1993","39.7392364","-104.9848620"
+"Detroit Tigers","MLB","American","Central","Detroit","Michigan","Comerica Park","1894","42.3315509","-83.0466403"
+"Houston Astros","MLB","American","West","Houston","Texas","Minute Maid Park","1962","29.7589382","-95.3676974"
+"Kansas City Royals","MLB","American","Central","Kansas City","Missouri","Kauffman Stadium","1969","39.1001050","-94.5781416"
+"Los Angeles Angels","MLB","American","West","Anaheim","California","Angel Stadium","1961","33.8347516","-117.9117320"
+"Los Angeles Dodgers","MLB","National","West","Los Angeles","California","Dodger Stadium","1883","34.0536923","-118.2427676"
+"Miami Marlins","MLB","National","East","Miami","Florida","loanDepot park","1993","25.7741566","-80.1935973"
+"Milwaukee Brewers","MLB","National","Central","Milwaukee","Wisconsin","American Family Field","1969","43.0386475","-87.9090751"
+"Minnesota Twins","MLB","American","Central","Minneapolis","Minnesota","Target Field","1901","44.9772995","-93.2654692"
+"New York Mets","MLB","National","East","Queens","New York","Citi Field","1962","40.7135078","-73.8283132"
+"New York Yankees","MLB","American","East","Bronx","New York","Yankee Stadium","1901","40.8466508","-73.8785937"
+"Oakland Athletics","MLB","American","West","Oakland","California","Oakland Coliseum","1901","37.8044557","-122.2713560"
+"Philadelphia Phillies","MLB","National","East","Philadelphia","Pennsylvania","Citizens Bank Park","1883","39.9527237","-75.1635262"
+"Pittsburgh Pirates","MLB","National","Central","Pittsburgh","Pennsylvania","PNC Park","1882","40.4406968","-80.0025666"
+"San Diego Padres","MLB","National","West","San Diego","California","Petco Park","1969","32.7157062","-117.1638284"
+"San Francisco Giants","MLB","National","West","San Francisco","California","Oracle Park","1883","37.7879363","-122.4075201"
+"Seattle Mariners","MLB","American","West","Seattle","Washington","T-Mobile Park","1977","47.6038321","-122.3300620"
+"St. Louis Cardinals","MLB","National","Central","St. Louis","Missouri","Busch Stadium","1882","38.6254063","-90.1900090"
+"Tampa Bay Rays","MLB","American","East","St. Petersburg","Florida","Tropicana Field","1998","27.7712264","-82.6340259"
+"Texas Rangers","MLB","American","West","Arlington","Texas","Globe Life Field","1961","32.7355816","-97.1071186"
+"Toronto Blue Jays","MLB","American","East","Toronto","Ontario","Rogers Centre","1977","43.6534817","-79.3839347"
+"Washington Nationals","MLB","National","East","Washington","D.C.","Nationals Park","1969","38.8950982","-77.0363849"
+"Atlanta Hawks","NBA","Eastern","Southeast","Atlanta","Georgia","State Farm Arena","1946","33.7544657","-84.3898151"
+"Boston Celtics","NBA","Eastern","Atlantic","Boston","Massachusetts","TD Garden","1946","42.3588336","-71.0578303"
+"Brooklyn Nets","NBA","Eastern","Atlantic","Brooklyn","New York","Barclays Center","1967","40.6526006","-73.9497211"
+"Charlotte Hornets","NBA","Eastern","Southeast","Charlotte","North Carolina","Spectrum Center","1988","35.2272086","-80.8430827"
+"Chicago Bulls","NBA","Eastern","Central","Chicago","Illinois","United Center","1966","41.8755616","-87.6244212"
+"Cleveland Cavaliers","NBA","Eastern","Central","Cleveland","Ohio","Rocket Mortgage FieldHouse","1970","41.4996574","-81.6936772"
+"Dallas Mavericks","NBA","Western","Southwest","Dallas","Texas","American Airlines Center","1980","32.7762719","-96.7968559"
+"Denver Nuggets","NBA","Western","Northwest","Denver","Colorado","Ball Arena","1967","39.7392364","-104.9848620"
+"Detroit Pistons","NBA","Eastern","Central","Detroit","Michigan","Little Caesars Arena","1941","42.3315509","-83.0466403"
+"Golden State Warriors","NBA","Western","Pacific","San Francisco","California","Chase Center","1946","37.7879363","-122.4075201"
+"Houston Rockets","NBA","Western","Southwest","Houston","Texas","Toyota Center","1967","29.7589382","-95.3676974"
+"Indiana Pacers","NBA","Eastern","Central","Indianapolis","Indiana","Gainbridge Fieldhouse","1967","39.7683331","-86.1583502"
+"LA Clippers","NBA","Western","Pacific","Los Angeles","California","Intuit Dome","1970","34.0536923","-118.2427676"
+"Los Angeles Lakers","NBA","Western","Pacific","Los Angeles","California","Crypto.com Arena","1947","34.0536923","-118.2427676"
+"Memphis Grizzlies","NBA","Western","Southwest","Memphis","Tennessee","FedExForum","1995","35.1460260","-90.0517786"
+"Miami Heat","NBA","Eastern","Southeast","Miami","Florida","Kaseya Center","1988","25.7741566","-80.1935973"
+"Milwaukee Bucks","NBA","Eastern","Central","Milwaukee","Wisconsin","Fiserv Forum","1968","43.0386475","-87.9090751"
+"Minnesota Timberwolves","NBA","Western","Northwest","Minneapolis","Minnesota","Target Center","1989","44.9772995","-93.2654692"
+"New Orleans Pelicans","NBA","Western","Southwest","New Orleans","Louisiana","Smoothie King Center","1988","29.9574657","-90.0629493"
+"New York Knicks","NBA","Eastern","Atlantic","New York","New York","Madison Square Garden","1946","40.7127281","-74.0060152"
+"Oklahoma City Thunder","NBA","Western","Northwest","Oklahoma City","Oklahoma","Paycom Center","1967","35.4729886","-97.5170536"
+"Orlando Magic","NBA","Eastern","Southeast","Orlando","Florida","Kia Center","1989","28.5421218","-81.3790450"
+"Philadelphia 76ers","NBA","Eastern","Atlantic","Philadelphia","Pennsylvania","Wells Fargo Center","1946","39.9527237","-75.1635262"
+"Phoenix Suns","NBA","Western","Pacific","Phoenix","Arizona","Footprint Center","1968","33.4484367","-112.0741410"
+"Portland Trail Blazers","NBA","Western","Northwest","Portland","Oregon","Moda Center","1970","45.5202471","-122.6741940"
+"Sacramento Kings","NBA","Western","Pacific","Sacramento","California","Golden 1 Center","1923","38.5810606","-121.4938950"
+"San Antonio Spurs","NBA","Western","Southwest","San Antonio","Texas","Frost Bank Center","1967","29.4246002","-98.4951405"
+"Toronto Raptors","NBA","Eastern","Atlantic","Toronto","Ontario","Scotiabank Arena","1995","43.6534817","-79.3839347"
+"Utah Jazz","NBA","Western","Northwest","Salt Lake City","Utah","Delta Center","1974","40.7596198","-111.8867970"
+"Washington Wizards","NBA","Eastern","Southeast","Washington","D.C.","Capital One Arena","1961","38.8950982","-77.0363849"
+"Anaheim Ducks","NHL","Western","Pacific","Anaheim","California","Honda Center","1993","33.8347516","-117.9117320"
+"Arizona Coyotes","NHL","Western","Central","Tempe","Arizona","Mullett Arena","1972","33.4255117","-111.9400160"
+"Boston Bruins","NHL","Eastern","Atlantic","Boston","Massachusetts","TD Garden","1924","42.3588336","-71.0578303"
+"Buffalo Sabres","NHL","Eastern","Atlantic","Buffalo","New York","KeyBank Center","1970","42.8864163","-78.8781493"
+"Calgary Flames","NHL","Western","Pacific","Calgary","Alberta","Scotiabank Saddledome","1972","51.0456064","-114.0575410"
+"Carolina Hurricanes","NHL","Eastern","Metropolitan","Raleigh","North Carolina","Lenovo Center","1972","35.7803977","-78.6390989"
+"Chicago Blackhawks","NHL","Western","Central","Chicago","Illinois","United Center","1926","41.8755616","-87.6244212"
+"Colorado Avalanche","NHL","Western","Central","Denver","Colorado","Ball Arena","1972","39.7392364","-104.9848620"
+"Columbus Blue Jackets","NHL","Eastern","Metropolitan","Columbus","Ohio","Nationwide Arena","2000","39.9622601","-83.0007065"
+"Dallas Stars","NHL","Western","Central","Dallas","Texas","American Airlines Center","1967","32.7762719","-96.7968559"
+"Detroit Red Wings","NHL","Eastern","Atlantic","Detroit","Michigan","Little Caesars Arena","1926","42.3315509","-83.0466403"
+"Edmonton Oilers","NHL","Western","Pacific","Edmonton","Alberta","Rogers Place","1972","53.5462055","-113.4912410"
+"Florida Panthers","NHL","Eastern","Atlantic","Sunrise","Florida","Amerant Bank Arena","1993","26.1666888","-80.2787573"
+"Los Angeles Kings","NHL","Western","Pacific","Los Angeles","California","Crypto.com Arena","1967","34.0536923","-118.2427676"
+"Minnesota Wild","NHL","Western","Central","St. Paul","Minnesota","Xcel Energy Center","2000","44.9497487","-93.0931028"
+"Montreal Canadiens","NHL","Eastern","Atlantic","Montreal","Quebec","Bell Centre","1909","45.5031824","-73.5698065"
+"Nashville Predators","NHL","Western","Central","Nashville","Tennessee","Bridgestone Arena","1998","36.1622767","-86.7742984"
+"New Jersey Devils","NHL","Eastern","Metropolitan","Newark","New Jersey","Prudential Center","1974","40.7356570","-74.1723667"
+"New York Islanders","NHL","Eastern","Metropolitan","Elmont","New York","UBS Arena","1972","40.7053335","-73.7078294"
+"New York Rangers","NHL","Eastern","Metropolitan","New York","New York","Madison Square Garden","1926","40.7127281","-74.0060152"
+"Ottawa Senators","NHL","Eastern","Atlantic","Ottawa","Ontario","Canadian Tire Centre","1992","45.4208777","-75.6901106"
+"Philadelphia Flyers","NHL","Eastern","Metropolitan","Philadelphia","Pennsylvania","Wells Fargo Center","1967","39.9527237","-75.1635262"
+"Pittsburgh Penguins","NHL","Eastern","Metropolitan","Pittsburgh","Pennsylvania","PPG Paints Arena","1967","40.4406968","-80.0025666"
+"San Jose Sharks","NHL","Western","Pacific","San Jose","California","SAP Center","1991","37.3361663","-121.8905910"
+"Seattle Kraken","NHL","Western","Pacific","Seattle","Washington","Climate Pledge Arena","2021","47.6038321","-122.3300620"
+"St. Louis Blues","NHL","Western","Central","St. Louis","Missouri","Enterprise Center","1967","38.6254063","-90.1900090"
+"Tampa Bay Lightning","NHL","Eastern","Atlantic","Tampa","Florida","Amalie Arena","1992","27.9449854","-82.4583107"
+"Toronto Maple Leafs","NHL","Eastern","Atlantic","Toronto","Ontario","Scotiabank Arena","1917","43.6534817","-79.3839347"
+"Utah Hockey Club","NHL","Western","Central","Salt Lake City","Utah","Delta Center","2024","40.7596198","-111.8867970"
+"Vancouver Canucks","NHL","Western","Pacific","Vancouver","British Columbia","Rogers Arena","1970","49.2608724","-123.1139520"
+"Vegas Golden Knights","NHL","Western","Pacific","Las Vegas","Nevada","T-Mobile Arena","2017","36.1674263","-115.1484131"
+"Washington Capitals","NHL","Eastern","Metropolitan","Washington","D.C.","Capital One Arena","1974","38.8950982","-77.0363849"
+"Winnipeg Jets","NHL","Western","Central","Winnipeg","Manitoba","Canada Life Centre","2011","49.8955367","-97.1384584"
+"Atlanta United FC","MLS","Eastern","East","Atlanta","Georgia","Mercedes-Benz Stadium","2014","33.7544657","-84.3898151"
+"Austin FC","MLS","Western","West","Austin","Texas","Q2 Stadium","2018","30.2649261","-97.7474086"
+"CF Montreal","MLS","Eastern","East","Montreal","Quebec","Saputo Stadium","1992","45.5031824","-73.5698065"
+"Charlotte FC","MLS","Eastern","East","Charlotte","North Carolina","Bank of America Stadium","2019","35.2272086","-80.8430827"
+"Chicago Fire FC","MLS","Eastern","East","Chicago","Illinois","Soldier Field","1997","41.8755616","-87.6244212"
+"Colorado Rapids","MLS","Western","West","Commerce City","Colorado","Dick's Sporting Goods Park","1995","39.8083196","-104.9338675"
+"Columbus Crew","MLS","Eastern","East","Columbus","Ohio","Lower.com Field","1994","39.9622601","-83.0007065"
+"D.C. United","MLS","Eastern","East","Washington","D.C.","Audi Field","1995","38.8950982","-77.0363849"
+"FC Cincinnati","MLS","Eastern","East","Cincinnati","Ohio","TQL Stadium","2015","39.1012809","-84.5127405"
+"FC Dallas","MLS","Western","West","Frisco","Texas","Toyota Stadium","1995","33.1505998","-96.8238183"
+"Houston Dynamo FC","MLS","Western","West","Houston","Texas","Shell Energy Stadium","2005","29.7589382","-95.3676974"
+"Inter Miami CF","MLS","Eastern","East","Fort Lauderdale","Florida","Chase Stadium","2018","26.1223084","-80.1433786"
+"LA Galaxy","MLS","Western","West","Carson","California","Dignity Health Sports Park","1994","33.8322043","-118.2517547"
+"Los Angeles FC","MLS","Western","West","Los Angeles","California","BMO Stadium","2014","34.0536923","-118.2427676"
+"Minnesota United FC","MLS","Western","West","St. Paul","Minnesota","Allianz Field","2010","44.9497487","-93.0931028"
+"Nashville SC","MLS","Eastern","East","Nashville","Tennessee","GEODIS Park","2017","36.1622767","-86.7742984"
+"New England Revolution","MLS","Eastern","East","Foxborough","Massachusetts","Gillette Stadium","1995","42.0653768","-71.2478308"
+"New York City FC","MLS","Eastern","East","New York","New York","Yankee Stadium","2013","40.7127281","-74.0060152"
+"New York Red Bulls","MLS","Eastern","East","Harrison","New Jersey","Red Bull Arena","1994","40.7464901","-74.1562551"
+"Orlando City SC","MLS","Eastern","East","Orlando","Florida","Inter&Co Stadium","2013","28.5421218","-81.3790450"
+"Philadelphia Union","MLS","Eastern","East","Chester","Pennsylvania","Subaru Park","2008","39.8495570","-75.3557458"
+"Portland Timbers","MLS","Western","West","Portland","Oregon","Providence Park","2009","45.5202471","-122.6741940"
+"Real Salt Lake","MLS","Western","West","Sandy","Utah","America First Field","2004","40.5710454","-111.8953815"
+"San Diego FC","MLS","Western","West","San Diego","California","Snapdragon Stadium","2023","32.7157062","-117.1638284"
+"San Jose Earthquakes","MLS","Western","West","San Jose","California","PayPal Park","1994","37.3361663","-121.8905910"
+"Seattle Sounders FC","MLS","Western","West","Seattle","Washington","Lumen Field","2007","47.6038321","-122.3300620"
+"Sporting Kansas City","MLS","Western","West","Kansas City","Kansas","Children's Mercy Park","1995","39.1134562","-94.6264970"
+"St. Louis City SC","MLS","Western","West","St. Louis","Missouri","Energizer Park","2019","38.6254063","-90.1900090"
+"Toronto FC","MLS","Eastern","East","Toronto","Ontario","BMO Field","2005","43.6534817","-79.3839347"
+"Vancouver Whitecaps FC","MLS","Western","West","Vancouver","British Columbia","BC Place","2009","49.2608724","-123.1139520"
